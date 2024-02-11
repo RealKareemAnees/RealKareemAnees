@@ -81,7 +81,7 @@ if you know the atomic number of the atom, Just type it and get full information
 
 ---
 
-# If you need a software engineer for your next project, JITC me on [Upwork](https://www.upwork.com/freelancers/~019cb0f3b40e5e0ba2)
+# If you need a software engineer for your next project, JIT contact me on [Upwork](https://www.upwork.com/freelancers/~019cb0f3b40e5e0ba2)
 
 ---
 
