@@ -22,7 +22,13 @@ File storing and sharing and media streaming platform for cloud services/linux/w
 
 If you feel messy and cannot organize and document out your thoughts, We Remastered your favorite classic [TreePad]() for you, Adding new features and synchronization support, All of this open source and free on [github](https://github.com/RealKareemAnees/CactusPad)
 
-### []()
+### [El-gato 🐈](https://github.com/RealKareemAnees/El-gato)
+
+Payment analysis system and history for shared properties built with [Node.js](), [electron]() and [HTML]() 
+
+### [Auto-electronic dist ⚛](https://github.com/RealKareemAnees/auto_electronic_distribution)
+
+if you know the atomic number of the atom, Just type it and get full information, **Sadly project is no longer supported**
 
 ---
 
