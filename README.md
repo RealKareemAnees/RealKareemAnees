@@ -1,4 +1,4 @@
-![Untitled](./Untitled%20c86d33770f964eb8b53764f0bc98b50f/Untitled.png)
+![Untitled](./Untitled%20c86d33770f964eb8b53764f0bc98b50f/Untitled.jpg)
 
 #### King of the Andals, the Rhoynar, and the First Men Lord of the Seven Kingdoms, Protector of the Realm
 
@@ -18,21 +18,11 @@
 
 File storing and sharing and media streaming platform for cloud services/linux/windows built on top of [Node.js](), [Typescript]() and [Java]()
 
-### [Kareemun-blog 🧐](https://github.com/RealKareemAnees/Kareemun-blog)
-
-My own simple blog where I help people with knowlage built with [Node.js](), [MongoDB](), [Sveltekit]() and [tailwind.css]()
-
-### [El-gato 🐈](https://github.com/RealKareemAnees/El-gato)
-
-Payment analysis system and history for shared properties and synchronization built with [Node.js](), [electron]() and [React.js]() 
-
-### [Auto-electronic dist ⚛](https://github.com/RealKareemAnees/auto_electronic_distribution)
-
-if you know the atomic number of the atom, Just type it and get full information, **Sadly project is no longer supported**
-
 ### [CactusPad 🌵](https://github.com/RealKareemAnees/CactusPad)
 
 If you feel messy and cannot organize and document out your thoughts, We Remastered your favorite classic [TreePad]() for you, Adding new features and synchronization support, All of this open source and free on [github](https://github.com/RealKareemAnees/CactusPad)
+
+### []()
 
 ---
 
@@ -79,18 +69,18 @@ If you feel messy and cannot organize and document out your thoughts, We Remaste
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10%">
   <h1 style="margin-right: 1%; color: #4CAF50; font-family: 'Arial Black', sans-serif; font-size: 32px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">I don't need to talk about myself, I'm a legend</h1>
-  <img src="image2.png" alt="Kareemun" style="width: 50%;">
+  <img src="image2.jpg" alt="Kareemun" style="width: 50%;">
 </div>
 >
 
 ---
 
-# If you need a software engineer for your next project, JIT contact me on [Upwork](https://www.upwork.com/freelancers/~019cb0f3b40e5e0ba2)
+# If you need a software engineer for your next project, JITC me on [Upwork](https://www.upwork.com/freelancers/~019cb0f3b40e5e0ba2)
 
 ---
 
 <div style="text-align:center;">
   <h1>Thanks for reading, Gentlemen 🎩</h1>
-  <img src="image1.png" alt="image" style="width:100%;">
+  <img src="image1.jpg" alt="image" style="width:100%;">
   <h1>!Mucho gusto!</h1>
 </div>
