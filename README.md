@@ -22,7 +22,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10%">
   <h1 style="margin-right: 1%; color: #4CAF50; font-family: 'Arial Black', sans-serif; font-size: 32px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">I don't need to talk about myself, I'm a legend</h1>
-  <img src="image2.png" alt="Kareemun" style="width: 50%;">
+  <img src="image2.png" alt="Kareemun" style="width: 100%;">
 </div>
 >
 
@@ -34,6 +34,6 @@
 
 <div style="text-align:center;">
   <h1>Thanks for reading, Gentlemen 🎩</h1>
-  <img src="a.gif" alt="image" style="width:100%;">
+  <img src="a.gif" alt="image" >
   <h1>!Mucho gusto!</h1>
 </div>
